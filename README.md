@@ -5,4 +5,4 @@ This game is inspired by the classic Frogger arcade game. Basically, The goal of
 
 HOW IT WORKS
 =============
-In order to run the game you will need to open the index.html file provided in a web browser and hopefully you find it fun. 
+In order to run the game you will need to open the index.html file provided in a web browser of your choice and hopefully you find it fun. 
