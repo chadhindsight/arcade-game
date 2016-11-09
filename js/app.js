@@ -2,6 +2,7 @@ var game = {
     NUM_OF_ENEMIES : 4,
     SPEED_INDEX : 100,
     TILE_WIDTH : 101,
+    
     TILE_HEIGHT : 83,
     CAN_HEIGHT : 606,
     CAN_WIDTH : 505
