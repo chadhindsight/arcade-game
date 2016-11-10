@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 Bronx, NY    
 (555)-555-6767
 me@gmail.com
@@ -74,3 +75,12 @@ Udacity- Front-End Web Developer Nanodegree
 CCNY- B.A. English
 October 2016
 May 2016
+||||||| merged common ancestors
+HOW IT WORKS
+=============
+In order to run the game you will need to open the index.html file provided in a web browser and hopefully you find it fun. 
+=======
+HOW IT WORKS
+=============
+In order to run the game you will need to open the index.html file provided in a web browser of your choice and hopefully you find it fun. 
+>>>>>>> b9e0ab906a86f1589904bd7a5320cd7e4b5fbb68
