@@ -1,4 +1,4 @@
-#Arcade game Project
+# Arcade game Project
 This game is inspired by the arcade classic Frogger and basically the objective is to get the player avatar from one side of the map to the other.
 
 HOW IT WORKS
